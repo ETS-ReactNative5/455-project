@@ -1,33 +1,74 @@
-# 455-project
+# CS 455 Final Project: React Native App
 
-# Research Methods Class (v 1.0)
+![languages](https://img.shields.io/github/languages/count/aquaigni/455-project)
 
-![social](https://img.shields.io/github/followers/trevortomesh?style=social)![twitter](https://img.shields.io/twitter/follow/trevortomesh?style=social)![languages](https://img.shields.io/github/languages/count/trevortomesh/research-methods-class)
+**Welcome to my final project for CS 455: Mobile Computing.**
+This project evaluates the creation of a mobile application in React Native.
+
+## Take Aim: Defining Project Scope
+
+CS 455 specializes on the design and implementation of software in a networked mobile environment, focusing on the challenges and opportunities afforded by modern mobile computing devices. The primary topics included software development practices, network computing, graphics programming, and human-computer interaction. CS 335 (Computer Networks) and CS 340 (Advanced Algorithm Design) are prerequisites for this course.
+
+**This project is to be evaluated according to three goals and eight expectations:**
+
+Goals
+1. Demonstrate knowledge in a form that can be evaluated.
+2. Practice what has been learned in a 'real world' format.
+3. Extend knowledge and abilities past what has been shown in class.
+
+Expectations
+1. The project should be of sufficient complexity to require documentation.
+2. The majority of this project mark is based on the github “README” file.
+3. A specific software design pattern must be chosen, documented, and implemented.
+4. Follow mobile programming best practices.
+5. Mind naming conventions -- variables should describe what values they represent.
+6. Respect the usual data encapsulation and modular object-oriented design etiquette.
+7. Exclude libraries and variables that are not required – clean-up after yourself!
+8. Comment your code! No matter how self-documenting, your code requires annotation!
+
+## Subproject: BVxAndroid v0.5
+
+**Description**
+
+In 2021, I developed and sold a native iOS application using the SwiftUI framework.
+
+Using the existing graphQL server backend, I intend to port an ultra-low-quality version of the app to React Native, to enable basic facility access for Non-Apple users of my client's business. Due to the public nature of this repository, I will not name my client nor identifying information regarding their work. The excluded SERVER_URL string constant and gql statements are required to build this app and can be made available privately upon request, for evaluation purposes.
 
 
-This is a repository for my research methods class.
+
 
 ## Table of Contents
 
-1. [Manifest](#manifest)
-2. [Style Examples](#style-examples)
-3. [Embedding Code](#embedding-code)
-4. [Embedding Links](embedding-links)
-5. [Embedding Images](#embedding-images)
-6. [Lists In Markdown](#lists-in-markdown)
-7. [Necessary Things for a README](#necessary-things-for-a-readme)
+1. [Instructions](#instructions)
+   1. [Configuration](#configuration)
+   2. [Installation](#installation)
+   3. [Usage](#usage)
+3. [File Manifest](#file-manifest)
+7. Usage (how does one use the program once it is installed.)
+8. Support / Contact Details.
+9. Road-map (future ideas)
+10. How to contribute
+11. Authors / Acknowledgements (give credit where credit is due!)
+12. License
+13. Project Status
 
-## Manifest
 
-- A manifest is a list of the top-level files in a project with a description of what each file is.
+## Instructions
 
+### Configuration
+
+### Installation
+
+### Operation
+
+
+## File Manifest
 ```
-- newfile.txt --> A new file that says stuff in it
-- README.md ----> This markdown file you are reading.
-- img ----------> Images folder for the readme
+- README.md ---------> This markdown file you are reading.
+- README_img --------> Images folder for the readme.
 ```
 
-## Style Examples
+## Markdown Samples
 
 _Italics!_
 
@@ -43,8 +84,7 @@ In the words of Abraham Lincoln:
 
 > "Pardon my French!"
 
-## Embedding Code
-
+formatted code
 ```cpp
 int myFunc(int a int b){
     int c = a+b;
@@ -52,85 +92,18 @@ int myFunc(int a int b){
 }
 ```
 
-## Embedding Links
+website
+[Github Pages](https://pages.github.com/)!
 
-You can host websites at [Github Pages](https://pages.github.com/)!
+relative-file-link
+[newfile.txt](newfile.txt)
 
-You can also do relative links [newfile.txt](newfile.txt)
-
-## Embedding Images
-
-![python](img/python.png)
-
+image
 ![woah](img/woah.gif)
 
 
 
-## Lists in Markdown
 
-Here's a list of cool pokemon:
-
-- Mew
-- Mewtwo
-- Celebi
-- Arceus
-- Porygon
-- Mimikyu
-
-Here's a list of my favorite pens:
-
-1. Lamy 200
-2. Herbin
-3. Pilot
-
-Here's a nested list!
-
-1. This is a number
-   1. This is a sub-number
-   2. This is another sub-number
-2. This is a number
-   - This is a subpoint
-   - This is another sub-point
-     1. This is a sub-sub number
-
-## Necessary Things for a README
-
-Depending on exactly what sort of project you are doing, there are a number of things that you may or may not want to include in a readme. There is really no **one true way** to do it. Readme's are a kind of _artform_.
-
-*__However__* there are a few things that you should consider including:
-
-1. Name of your project.
-2. Description of your project.
-3. Badges.
-4. Graphics / Visuals
-5. Install Instructions
-6. Usage (how does one use the program once it is installed.)
-7. Support / Contact Details.
-8. Road-map (future ideas)
-9. How to contribute
-10. Authors / Acknowledgements (give credit where credit is due!)
-11. License
-12. Project Status
-
-## Name of your Project
-
-- This should be, simply, the name of your project.. maybe with some kind of a version Number
-
-## Description of your project
-
-- This is a brief, but accurate description telling potential users _exactly_ what your project is about. This is akin to an "abstract" in academic works. 
-
-## Badges
-
-![social](https://img.shields.io/github/followers/trevortomesh?style=social)![twitter](https://img.shields.io/twitter/follow/trevortomesh?style=social)![languages](https://img.shields.io/github/languages/count/trevortomesh/research-methods-class)
-
-- Badges are small images that convey meta data such as whether or not all the tests are passing, version numbers, languages used, etc. 
-- Get badges at shields.io
-
-## Visuals
-
-- Visuals are very important! You might want to include screenshots of your code in operation. GIFS are also great!
-- Just use the "![ ]()" to input images.
 
 ## Installation 
 
