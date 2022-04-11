@@ -67,12 +67,12 @@ Many thanks to
 
 
 ### Further Reading
- - [A sample of good github documentation](github.com/matiassingers/awesome-readme)!
- - [A sample of good github documentation](github.com/matiassingers/awesome-readme)!
+ - [A sample of good github documentation](https://github.com/matiassingers/awesome-readme)
+ - [A sample of good github documentation](https://github.com/matiassingers/awesome-readme)
 
 
 ### Contact The Developer
-To contact the me [check out my website](ottenbreit.tech)!.
+To contact the me [check out my website](https://ottenbreit.tech).
 
 
 ### Contribute
