@@ -164,7 +164,7 @@ cool-project -arg1 -arg2
 ## Next Steps
 
 ### SwiftUI Demo
-
+![demo](demo.png)
 
 ### Known Bugs
 
