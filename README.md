@@ -76,7 +76,8 @@ To contact the me [check out my website](https://ottenbreit.tech).
 
 
 ### Contribute
-To contribute to this project, request access to the private
+To contribute to this project, request access to the private [configuration](#configuration) files.
+Report issues on Github or using this [Google Form](https://forms.gle/bE8ciqi2KJqCc1bN8).
 
 
 ### License
@@ -163,9 +164,13 @@ cool-project -arg1 -arg2
 
 
 ### Milestones
-
-- List your planned future developments (road map)
-- This is a good way to keep track of what it is that you want to do in the future!
+- [x] [Scrollable Components]
+- [x] [Menus]
+- [x] [Table Component]
+- [x] [Javadoc-style Documentation]
+- [x] [Grid / Screen Filters]
+- [ ] [Floating Components]
+- [ ] [Drag'n Drop Support]
 
 
 ### Project Status
