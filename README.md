@@ -54,6 +54,9 @@ In 2021, I developed and sold a native iOS application using the SwiftUI framewo
 
 Using my existing graphQL server backend, I intend to port an ultra-low-quality version of the app to React Native, to enable basic facility access for Non-Apple users of my client's business. Since this implementation will exclude major functionality currently available in version 1.0, it will assume version number 0.5. Since my project does not welcome open-source contributions, public feedback will be limited to bug discovery and reporting.
 
+The design pattern implemented for this project is a modified MVVM pattern, based on the principle of composition. The GraphQL queries provide the data model used throughout the app.
+
+
 
 ### Acknowledgements
 The exclusive author, designer and developer of the original SwiftUI project is Ottenbreit Tech.
@@ -62,7 +65,7 @@ Many thanks to
 - the documentation team at Apple for teaching me Mobile Computing;
 - the SwiftUI team for their commitment to clean code excellence;
 - HackingWithSwift's Paul Hudson for providing bleeding edge SwiftUI tutorials;
-- the documentation team at GraphQL for providing environment-specific code samples; and
+- the documentation team at GraphQL for providing environment-specific code samples which enabled my 3 hour port of this project;
 - the University of Regina's Trevor Tomesh for introducing me to code-level React Native development.
 
 
@@ -73,6 +76,7 @@ Many thanks to
 
 ### Contact The Developer
 To contact the me [check out my website](https://ottenbreit.tech).
+For troubleshooting, refer to [my installation instructions](#installation) and [the expo documentation](https://docs.expo.dev).
 
 
 ### Contribute
@@ -164,13 +168,14 @@ cool-project -arg1 -arg2
 
 
 ### Milestones
-- [x] [Scrollable Components]
-- [x] [Menus]
-- [x] [Table Component]
-- [x] [Javadoc-style Documentation]
-- [x] [Grid / Screen Filters]
-- [ ] [Floating Components]
-- [ ] [Drag'n Drop Support]
+- [x] App Class With Context Provider & Navigation
+- [ ] GraphQL Client
+- [ ] SignIn & Client Authorization
+- [ ] SignIn Persistence & App Storage
+- [ ] Home Screen with StartVisit/CurrentVisit Button, Member Name
+- [ ] Left Panel Sidebar with Authorized Webviews
+- [ ] 
+- [ ] 
 
 
 ### Project Status
