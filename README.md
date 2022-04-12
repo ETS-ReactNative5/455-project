@@ -163,8 +163,6 @@ cool-project -arg1 -arg2
 
 ## Next Steps
 
-### SwiftUI Demo
-![demo](demo.png)
 
 ### Known Bugs
 
@@ -179,6 +177,11 @@ cool-project -arg1 -arg2
 - [ ] Left Panel Sidebar with Authorized Webviews
 - [ ] 
 - [ ] 
+
+### SwiftUI Demo
+Screenshots from the SwiftUI App that is being ported to React Native.
+
+![demo](demo.png)
 
 
 ### Project Status
