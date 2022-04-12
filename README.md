@@ -42,9 +42,10 @@ Expectations
    3. [Installation](#installation)
    4. [Usage](#usage)
 3. [Next Steps](#next-steps)
-   1. [Known Bugs](#known-bugs)
-   2. [Milestones](#milestones)
-   3. [Project Status](#project-status)
+   1. [SwiftUI Screenshots](#SwiftUI-demo)
+   2. [Known Bugs](#known-bugs)
+   3. [Milestones](#milestones)
+   4. [Project Status](#project-status)
 
 
 
@@ -162,6 +163,8 @@ cool-project -arg1 -arg2
 
 ## Next Steps
 
+### SwiftUI Demo
+
 
 ### Known Bugs
 
@@ -180,12 +183,6 @@ cool-project -arg1 -arg2
 
 ### Project Status
 
-- A lot of the time people will abandon projects. You should always at least let people know if you aren't interested in working on a project anymore!
-- Someone might want to pick it up on your behalf!
-
-
-
-
-
-
+- This project is continuing under private development.
+- This project is currently paused while we explore alternatives to React Native due to the weakness of JavaScript.
 
