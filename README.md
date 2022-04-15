@@ -78,7 +78,7 @@ Many thanks to
  - https://stackoverflow.com/questions/67218350/set-authorization-headers-in-apolloclient-for-each-request
  - https://www.apollographql.com/docs/react/get-started
  - https://www.crowdbotics.com/blog/integrate-graphql-and-apollo-client-in-react-native-app
- - 
+ - https://stackoverflow.com/a/67651273
  - 
 
 
