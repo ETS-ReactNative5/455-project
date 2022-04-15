@@ -132,7 +132,9 @@ expo start
 
 Due to architecturally dominated initial work and dependency version hell, this is all that I have to show at this time.
 
-I have been inches away from freedom 4 times in the past 16 hours of work, and as soon as I pierce the veil and can place a GraphQL operation I will be able to port the view in.
+I have been inches away from freedom 4 times in the past 16 hours of work, and as soon as I pierce the veil and can place a GraphQL operation I will be able to port the rest of the SwiftUI views and functionality very easily.
+
+The nature of my 'GraphQL as model' MVVM-modified architecture determines this imperative situation where the successful inclusion of a GraphQL client is of utmost imperative to this app. I was perhaps naive in assuming for a simple library inclusions... (I have worked with GraphQL for 18 months, deployed to a blazingly new framework (SwiftUI), and have been exposed to GraphQL's large React Native support through out that time).
 
 
 
@@ -220,4 +222,5 @@ Screenshots from the SwiftUI App that is being ported to React Native.
 
 - This project is continuing under private development.
 - This project is currently paused while we explore alternatives to React Native due to the weakness of JavaScript.
+- A TypeScript React Native solution may be pursued this summer, but without relying on Expo and building locally.
 
