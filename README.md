@@ -72,7 +72,14 @@ Many thanks to
 
 ### Further Reading
  - [A sample of good github documentation](https://github.com/matiassingers/awesome-readme)
- - [A sample of good github documentation](https://github.com/matiassingers/awesome-readme)
+ - [GraphQL error codes](https://gist.github.com/karladler/d226f511689dce47a9518ee1bb1e33bb)
+ - https://reactnative.dev/docs/environment-setup
+ - https://docs.expo.dev/introduction/walkthrough/
+ - https://stackoverflow.com/questions/67218350/set-authorization-headers-in-apolloclient-for-each-request
+ - https://www.apollographql.com/docs/react/get-started
+ - https://www.crowdbotics.com/blog/integrate-graphql-and-apollo-client-in-react-native-app
+ - 
+ - 
 
 
 ### Contact The Developer
