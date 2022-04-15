@@ -127,7 +127,12 @@ Once Expo CLI is running, follow the CLI instructions to launch the app on the w
 expo start
 ```
 
-- then maybe show a screenshot of the results :smile:
+
+![SignIn](Screen Shot 2022-04-15 at 4.53.19 AM.png)
+
+Due to architecturally dominated initial work and dependency version hell, this is all that I have to show at this time.
+
+I have been inches away from freedom 4 times in the past 16 hours of work, and as soon as I pierce the veil and can place a GraphQL operation I will be able to port the view in.
 
 
 
@@ -208,7 +213,6 @@ This project picked up a lot more friction than anticipated.
 
 ### SwiftUI Demo
 Screenshots from the SwiftUI App that is being ported to React Native.
-
 ![demo](demo.png)
 
 
