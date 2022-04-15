@@ -128,7 +128,7 @@ expo start
 ```
 
 
-![SignIn]('Screen Shot 2022-04-15 at 4.53.19 AM.png')
+![SignIn](BVxA.png)
 
 Due to architecturally dominated initial work and dependency version hell, this is all that I have to show at this time.
 
