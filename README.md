@@ -115,6 +115,7 @@ Here is a sample of links that can be helpful in setting up the React Native env
  - https://www.apollographql.com/docs/react/get-started
  - https://stackoverflow.com/questions/67218350/set-authorization-headers-in-apolloclient-for-each-request
  - https://www.crowdbotics.com/blog/integrate-graphql-and-apollo-client-in-react-native-app
+ - https://instamobile.io/react-native-tutorials/react-native-graphql-apollo-client/
  - [GraphQL error codes](https://gist.github.com/karladler/d226f511689dce47a9518ee1bb1e33bb)
 
 ### Usage
@@ -212,6 +213,7 @@ This project picked up a lot more friction than anticipated.
 - [ ] SignIn Persistence & App Storage
 - [ ] Home Screen with StartVisit/CurrentVisit Button, Member Name
 - [ ] Left Panel Sidebar with Authorized Webviews
+- [ ] https://reactnative.dev/docs/typescript
 
 ### SwiftUI Demo
 Screenshots from the SwiftUI App that is being ported to React Native.
